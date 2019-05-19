@@ -1,0 +1,140 @@
+{
+    "result": 1,
+    "resultContent": {
+        "bidProductCount": 0,
+        "canOnekeyInvest": true,
+        "items": [
+            {
+                "annualinterestrate": 18,
+                "bidamount": "0",
+                "investmentterm": 6,
+                "labels": "B",
+                "listingid": 305759991,
+                "ordernum": 0,
+                "quota": "3000.00",
+                "rateprogress": "1.00",
+                "safegrade": "B",
+                "statusId": 2,
+                "title": "手机app用户的第16次闪电借款"
+            },
+            {
+                "annualinterestrate": 14,
+                "bidamount": "0",
+                "investmentterm": 12,
+                "labels": "A",
+                "listingid": 305759822,
+                "ordernum": 0,
+                "quota": "1107.00",
+                "rateprogress": "1.00",
+                "safegrade": "A",
+                "statusId": 2,
+                "title": "手机app用户的借款"
+            },
+            {
+                "annualinterestrate": 14,
+                "bidamount": "0",
+                "investmentterm": 12,
+                "labels": "A",
+                "listingid": 305759972,
+                "ordernum": 0,
+                "quota": "973.00",
+                "rateprogress": "1.00",
+                "safegrade": "A",
+                "statusId": 2,
+                "title": "手机app用户的借款"
+            },
+            {
+                "annualinterestrate": 18,
+                "bidamount": "0",
+                "investmentterm": 12,
+                "labels": "B",
+                "listingid": 305760009,
+                "ordernum": 0,
+                "quota": "841.00",
+                "rateprogress": "1.00",
+                "safegrade": "B",
+                "statusId": 2,
+                "title": "手机app用户的第16次闪电借款"
+            },
+            {
+                "annualinterestrate": 18,
+                "bidamount": "0",
+                "investmentterm": 12,
+                "labels": "B",
+                "listingid": 305759917,
+                "ordernum": 0,
+                "quota": "1500.00",
+                "rateprogress": "1.00",
+                "safegrade": "B",
+                "statusId": 2,
+                "title": "手机app用户的第5次闪电借款"
+            },
+            {
+                "annualinterestrate": 14,
+                "bidamount": "0",
+                "investmentterm": 12,
+                "labels": "A",
+                "listingid": 305759878,
+                "ordernum": 0,
+                "quota": "619.00",
+                "rateprogress": "1.00",
+                "safegrade": "A",
+                "statusId": 2,
+                "title": "手机app用户的借款"
+            },
+            {
+                "annualinterestrate": 18,
+                "bidamount": "0",
+                "investmentterm": 6,
+                "labels": "B",
+                "listingid": 305759424,
+                "ordernum": 0,
+                "quota": "9700.00",
+                "rateprogress": "1.00",
+                "safegrade": "B",
+                "statusId": 2,
+                "title": "手机app用户的借款"
+            },
+            {
+                "annualinterestrate": 18,
+                "bidamount": "0",
+                "investmentterm": 6,
+                "labels": "B",
+                "listingid": 305759679,
+                "ordernum": 0,
+                "quota": "2215.00",
+                "rateprogress": "1.00",
+                "safegrade": "B",
+                "statusId": 2,
+                "title": "手机app用户的第9次闪电借款"
+            },
+            {
+                "annualinterestrate": 18,
+                "bidamount": "0",
+                "investmentterm": 12,
+                "labels": "B",
+                "listingid": 305759748,
+                "ordernum": 0,
+                "quota": "3000.00",
+                "rateprogress": "1.00",
+                "safegrade": "B",
+                "statusId": 2,
+                "title": "手机app用户的第4次闪电借款"
+            },
+            {
+                "annualinterestrate": 14,
+                "bidamount": "0",
+                "investmentterm": 6,
+                "labels": "A",
+                "listingid": 305759718,
+                "ordernum": 0,
+                "quota": "1422.00",
+                "rateprogress": "1.00",
+                "safegrade": "A",
+                "statusId": 2,
+                "title": "手机app用户的第4次闪电借款"
+            }
+        ]
+    },
+    "resultMessage": null
+}

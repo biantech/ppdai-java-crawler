@@ -1,0 +1,15 @@
+.idea
+*.iml
+/ws/*
+/target/*
+/bin/*
+/*/target/*
+/*/bin/*
+/*.bat
+!.travis.yml
+*.iml
+
+**/WEB-INF/classes/
+
+/logs/
+/**/*/rebel.xml
